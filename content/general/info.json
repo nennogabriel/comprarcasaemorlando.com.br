@@ -1,0 +1,27 @@
+{
+  "email": {
+    "address": "info@talentrealtors.com.br",
+    "subject": "webapp comprarcasasemorlando.com.br"
+  },
+  "phone": {
+    "number": " +14078010070",
+    "display": " +1 407 801 0070",
+    "message": "Olá Talent."
+  },
+  "address": {
+    "display": "500 Celebration Avenue 34747 Celebration (Flórida)",
+    "locality": "Celebration",
+    "region": "Florida",
+    "country": "United States",
+    "postalCode": "34747",
+    "link": "https://wego.here.com/directions/mix/mylocation/e-eyJuYW1lIjoiVGFsZW50IC0gU3VhIEltb2JpbGlcdTAwZTFyaWEgbmEgRmxcdTAwZjNyaWRhIiwiYWRkcmVzcyI6IjUwMCBDZWxlYnJhdGlvbiBBdmVudWUsIENlbGVicmF0aW9uIChGbFx1MDBmM3JpZGEpIiwibGF0aXR1ZGUiOjI4LjMxOTcxLCJsb25naXR1ZGUiOi04MS41MzY5MywicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoyMTQ3MDQ3MDUzNzgxNTd9?map=28.31971,-81.53693,15,normal&fb_locale=pt_BR"
+  },
+  "localID": {
+    "type": "CNPJ",
+    "legalName": "Talent - Sua imobiliária na Florida",
+    "foundingDate": "2020-02-07T12:18:19.758Z",
+    "display": "000",
+    "number": "000",
+    "founders": ["Guilherme", "Ricardo Molina"]
+  }
+}

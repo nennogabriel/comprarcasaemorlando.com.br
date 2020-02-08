@@ -1,0 +1,10 @@
+/* smooth scrool to (#) hash links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* svg inherance */
+body,
+svg {
+  fill: currentColor;
+}

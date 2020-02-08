@@ -1,0 +1,44 @@
+{
+  "links": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Casas à venda",
+      "url": "/casas-a-venda/"
+    },
+    {
+      "label": "Aluguel de casas",
+      "url": "/aluguel-de-casas/"
+    },
+    {
+      "label": "Administração",
+      "url": "/administracao-de-casas-em-orlando-property-manager/"
+    },
+    {
+      "label": "Visto Americano",
+      "url": "/visto-americano/"
+    },
+    {
+      "label": "Dúvidas",
+      "url": "/perguntas-frequentes-como-comprar-um-imovel-na-florida/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Vídeos",
+      "url": "/videos/"
+    },
+    {
+      "label": "Imprensa",
+      "url": "/talent-realtors-na-imprensa/"
+    },
+    {
+      "label": "Quem somos",
+      "url": "/sobre/"
+    }
+  ]
+}

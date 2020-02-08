@@ -1,0 +1,47 @@
+.Toastify[data-reactroot] {
+  display: none;
+}
+
+.container {
+  @apply w-full;
+  max-width: 1260px;
+  margin: 0 auto;
+}
+
+.page-header {
+  & .page-header-img {
+    @apply w-full h-40;
+    background: url(/img/bgheader.png) no-repeat scroll bottom;
+    background-size: contain;
+  }
+  & h1 {
+    @apply bg-black font-serif text-white text-2xl p-6 font-bold;
+  }
+}
+
+.blog-post-md {
+  & a {
+    @apply font-bold;
+    color: theme("colors.brand-1.1");
+  }
+
+  & td {
+    @apply py-2;
+    min-width: 200px;
+  }
+
+  & tr:nth-child(2n + 1) {
+    @apply bg-gray-200 p-1;
+  }
+
+  & h3,
+  & h4 {
+    @apply text-3xl font-serif py-8 leading-none;
+  }
+  & ul {
+    list-style: "- ";
+    & li {
+      @apply ml-4;
+    }
+  }
+}

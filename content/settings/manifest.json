@@ -1,0 +1,9 @@
+{
+  "name": "Talent: Sua Imobiliaria na Flórida",
+  "short_name": "Talent",
+  "start_url": "/",
+  "background_color": "#E6E7E7",
+  "theme_color": "#96BE34",
+  "orientation": "portrait",
+  "icon": "/img/icon.png"
+}
