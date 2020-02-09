@@ -10,9 +10,9 @@ metadata:
     expressa de Talent Realty Solutions.
 ---
 
-**O conteúdo deste website e dos materiais enviados são protegidos por Direitos Autorais e não podem ser copiados ou reproduzidos sem autorização expressa de Talent Realty Solutions.**
+**O conteúdodeste website e dos materiais enviados são protegidos por Direitos Autorais e não podem ser copiados ou reproduzidos sem autorização expressa de Talent Realty Solutions.**
 
-### Quais os principais motivos que levam brasileiros a investir em Casas em Orlando Flórida?
+### Quai os principais motivos que levam brasileiros a investir em Casas em Orlando Flórida?
 
 São muitos os fatores, dos quais destacamos os seguintes:
 
@@ -54,7 +54,7 @@ Sim. Hoje há bancos que financiam até 75% do imóvel.
 
 ### Quais as vantagens e desvantagens de comprar casas em Orlando a vista ou financiado? (compradores brasileiros)?
 
-**FINANCIADA **:
+**FINANCIADA**:
 
 Vantagens:
 
@@ -274,4 +274,4 @@ A venda de uma propriedade pode ser feita mediante assinatura de documentos em C
 
 Em caso de compras à vista, não é necessária a presença do comprador. Os documentos podem ser assinados na Embaixada ou Consulados Americanos e enviados por Correios. Nas compras financiadas, a maioria dos Bancos, exige a presença do comprador e seu cônjuge.
 
-**O conteúdo deste website e dos materiais enviados são protegidos por Direitos Autorais e não podem ser copiados ou reproduzidos sem autorização expressa de Talent Realty Solutions.**
+**O conteúdodeste website e dos materiais enviados são protegidos por Direitos Autorais e não podem ser copiados ou reproduzidos sem autorização expressa de Talent Realty Solutions.**

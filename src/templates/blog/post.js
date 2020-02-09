@@ -16,7 +16,7 @@ import imagecb from "~/utils/imagecb"
 
 export const Template = ({ title, cover, tags, content, componentContent }) => {
   const PostContent = componentContent || Content
-
+  // text-3xl
   return (
     <main className="flex-auto">
       <div className="container page-header hidden md:block">

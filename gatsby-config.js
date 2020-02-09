@@ -4,6 +4,8 @@ const siteMetadata = require("./content/settings/siteMetadata.json")
 const googleFonts = require("./content/theme/google_fonts.json")
 const colors = require("./content/theme/pallete.json")
 
+console.log(process.env.NODE_ENV)
+
 module.exports = {
   siteMetadata,
   plugins: [
@@ -106,11 +108,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-purgecss`,
       options: {
+        develop: process.env.NODE_ENV === "development",
         tailwind: true,
-        purgeOnly: [`src/styles/index.css`],
       },
     },
 
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
