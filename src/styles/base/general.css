@@ -15,7 +15,7 @@
     background-size: contain;
   }
   & h1 {
-    @apply bg-custom-1-6 font-serif text-white text-2xl p-6 font-bold;
+    @apply bg-custom-1-6 font-serif text-white text-2xl p-6 -mt-1;
   }
 }
 
@@ -28,10 +28,11 @@
   & td {
     @apply py-2;
     min-width: 200px;
+    padding: 0.5rem;
   }
 
   & tr:nth-child(2n + 1) {
-    @apply bg-gray-200 p-1;
+    background: theme("colors.gray.200");
   }
 
   & h3,

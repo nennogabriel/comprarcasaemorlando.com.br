@@ -30,7 +30,7 @@ export default function Navbar() {
       <nav
         className={`${
           navbarOpen ? "block" : "hidden"
-        } font-serif bg-custom-1-4 w-full text-custom-1-0 font-bold text-center border-brand-1-0 border-b-4 md:text-2xl md:block`}
+        } font-serif bg-custom-1-4 w-full text-custom-1-0 text-center border-brand-1-0 border-b-4 md:text-2xl md:block`}
       >
         <ul className="flex flex-col flex-wrap md:flex-row">
           {menu.links.map(link => (
