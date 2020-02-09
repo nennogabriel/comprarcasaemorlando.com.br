@@ -33,7 +33,7 @@ function AsideBlogPots({ data }) {
         <div className={styles.title}>Posts Recentes</div>
         <ul>
           {nodes.map(post => (
-            <li className="border-b-2" key={post.id}>
+            <li className="border-b-2 pb-2 mb-2" key={post.id}>
               <SmartLink to={post.fields.slug}>
                 {post.frontmatter.title}
               </SmartLink>

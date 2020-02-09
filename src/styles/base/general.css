@@ -15,7 +15,7 @@
     background-size: contain;
   }
   & h1 {
-    @apply bg-black font-serif text-white text-2xl p-6 font-bold;
+    @apply bg-custom-1-6 font-serif text-white text-2xl p-6 font-bold;
   }
 }
 

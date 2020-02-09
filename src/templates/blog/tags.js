@@ -29,7 +29,7 @@ class TagRoute extends React.Component {
           <div className="container bg-white">
             <div className="flex flex-col md:flex-row">
               <div className="md:w-2/3 p-6">
-                <ul className="flex flex-col px-6">
+                <ul className="flex flex-col">
                   {posts.map(({ node: post }) => (
                     <li key={post.id}>
                       <BlogPostListItem

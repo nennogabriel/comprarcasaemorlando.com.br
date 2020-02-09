@@ -22,7 +22,7 @@ export default function BlogIndexPage({ data }) {
         <div className="container bg-white">
           <div className="flex flex-col md:flex-row">
             <div className="md:w-2/3 p-6">
-              <ul className="flex flex-col px-6">
+              <ul className="flex flex-col">
                 {nodes.map(node => (
                   <li key={node.id}>
                     <BlogPostListItem

@@ -9,13 +9,11 @@ export default function BlogPostListItem({
   path,
   title,
   description,
-  date,
-  highlight,
   cover,
   tags,
 }) {
   return (
-    <div className="flex flex-col mb-6 border-dotted border-b-2 mb-6">
+    <div className="flex flex-col mb-6 border-dotted border-b-2 mb-16">
       <SmartLink to={path} className="border-dotted border-b-2 mb-2">
         {cover && (
           <Img
